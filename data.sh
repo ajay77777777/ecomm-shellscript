@@ -1,5 +1,5 @@
 git clone https://github.com/ajay77777777/ecomm.git
-cd flask-library-app
+cd ecomm
 sudo apt install -y apache2
 sudo systemctl start apache2
 sudo systemctl enable apache2
